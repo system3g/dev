@@ -1,0 +1,15 @@
+{
+  "name": "Node.js & Vue.js",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "octref.vetur",
+        "hollowtree.vue-snippets"
+      ]
+    }
+  },
+  "remoteUser": "node"
+}
